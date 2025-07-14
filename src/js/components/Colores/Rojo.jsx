@@ -4,7 +4,7 @@ const Rojo = ({ activo }) => {
     return (
         <div
             className="rounded-circle"
-            style={{backgroundColor: activo ? "#ff0000ff" : "#450000ff",width: "100px",height: "100px"}}/>
+            style={{backgroundColor: activo ? "#ff0000ff" : "#3e0404ff",width: "100px",height: "100px"}}/>
     );
 };
 

@@ -2,7 +2,7 @@ import React from "react";
 
 const Verde = ({ activo }) => {
 	return (
-		<div className="rounded-circle" style={{backgroundColor: activo ? "#3cff00ff" : "#144c02ff",width: "100px",height: "100px"}}/>
+		<div className="rounded-circle" style={{backgroundColor: activo ? "#37ff00ff" : "#113d02ff",width: "100px",height: "100px"}}/>
 	);
 };
 
